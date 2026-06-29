@@ -1,6 +1,6 @@
 # Práctica 5 – Microservices
 
-Arthur y Rodrigo
+Arthur V. y Rodrigo M.
 
 ## 1. Project Overview
 
