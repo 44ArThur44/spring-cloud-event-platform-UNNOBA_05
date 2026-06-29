@@ -1,5 +1,7 @@
 # Práctica 5 – Microservices
 
+Arthur y Rodrigo
+
 ## 1. Project Overview
 
 This repository implements a simple Spring Cloud microservices architecture for the UNNOBA "Práctica 5 – Microservices" assignment.
